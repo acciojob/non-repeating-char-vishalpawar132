@@ -32,6 +32,7 @@ const result = findFirstNonRepeatingCharacter(userInput);
 // Display the result using alert()
 if (result !== null) {
   alert(result);
-} else {
-  alert("");
 }
+// } else {
+//   alert("");
+// }
